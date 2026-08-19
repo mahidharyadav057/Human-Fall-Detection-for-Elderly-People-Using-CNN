@@ -13,6 +13,10 @@ The main purpose is to provide an automated monitoring solution that can help id
 
 ---
 
+live server
+https://guardianstep-fall-detecti-uotd.arcada.app
+
+
 ## 👨‍💻 Author
 
 **Mahidhar Yadav**
